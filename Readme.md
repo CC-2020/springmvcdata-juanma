@@ -1,3 +1,22 @@
+Añadida pagina principal y formulario para guardar y editar usuarios con Bootstrap
+
+Relación muchos a muchos de usuarios y roles
+
+Entre otros detalles
+
+
+
+Build en Heroku: https://mighty-lowlands-21020.herokuapp.com/
+
+repositorio de heroku: https://git.heroku.com/mighty-lowlands-21020.git
+
+
+# ----------------------------------------------------------------------------------------------------------
+
+
+
+
+
 # Aplicación Spring a producción en Heroku
 
 En esta guía vamos a detallar los pasos para desplegar una aplicación Spring MVC y JPA en producción en Heroku.
